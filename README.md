@@ -43,21 +43,43 @@
 
 <div align="center">
 
-**Languages & Markup**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" />
-
-<br/><br/>
-
-**Frameworks & Libraries**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,nodejs,express&theme=dark" />
-
-<br/><br/>
-
-**Databases & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,docker,linux,postman&theme=dark" />
+<table>
+<tr>
+<td align="right" width="20%">
+<img src="https://img.shields.io/badge/FRONTEND-8A2BE2?style=for-the-badge&logoColor=white" />
+</td>
+<td width="80%">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,tailwind&theme=dark" />
+</td>
+</tr>
+<tr><td colspan="2"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2"/></td></tr>
+<tr>
+<td align="right" width="20%">
+<img src="https://img.shields.io/badge/BACKEND-6A5ACD?style=for-the-badge&logoColor=white" />
+</td>
+<td width="80%">
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+</td>
+</tr>
+<tr><td colspan="2"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2"/></td></tr>
+<tr>
+<td align="right" width="20%">
+<img src="https://img.shields.io/badge/DATABASE-483D8B?style=for-the-badge&logoColor=white" />
+</td>
+<td width="80%">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+</td>
+</tr>
+<tr><td colspan="2"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2"/></td></tr>
+<tr>
+<td align="right" width="20%">
+<img src="https://img.shields.io/badge/TOOLS_&_DEVOPS-4B0082?style=for-the-badge&logoColor=white" />
+</td>
+<td width="80%">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman&theme=dark" />
+</td>
+</tr>
+</table>
 
 </div>
 
