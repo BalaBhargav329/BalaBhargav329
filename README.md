@@ -49,7 +49,7 @@
 <img src="https://img.shields.io/badge/FRONTEND-8A2BE2?style=for-the-badge&logoColor=white" />
 </td>
 <td width="80%">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,&theme=dark" />
 </td>
 </tr>
 <tr><td colspan="2"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="2"/></td></tr>
